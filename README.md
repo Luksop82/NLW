@@ -4,7 +4,7 @@
 Projeto Construído no evento Next level Week da Rocketseat. 
 
 
-[Clique aqui para acessar](https://github.com/Luksop82/NLW)
+[Clique aqui para acessar](https://luksop82.github.io/NLW/)
 
 ##  Tecnologias
 
