@@ -17,7 +17,7 @@ body{
 }
 
 body * {
-    font-family: '-inter'; sans-serif;
+    font-family: 'inter'; sans-serif;
     line-height: 160%;
 }
 
@@ -65,14 +65,12 @@ section {color: white;
 }
 
 section h2{
-    font-weight: 900;
-    font-size: 24px;
+
     letter-spacing: -0,47px;
     }
 
 section p{
-    font-weight: 400;
-    font-size: 16px;
+
     letter-spacing: -0,18px;
     color: #A1A1AA;
 }
@@ -80,6 +78,7 @@ section p{
 section ul {
     display: flex;
     gap: 16px;
+
     margin-top: 24px;
     flex-wrap: wrap;
 }
